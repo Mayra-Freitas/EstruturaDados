@@ -1,2 +1,2 @@
 # EstruturaDados
-tudo de estrutura de dados 2
+Projeto com todos os códigos desenvolvidos na disciplina de Estrutura de Dados
