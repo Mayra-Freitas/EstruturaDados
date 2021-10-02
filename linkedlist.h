@@ -30,3 +30,4 @@ int addAll(LinkedList *listDest, int pos, LinkedList *listSource);
 void* removePos(LinkedList *list, int pos);
 bool removeData(LinkedList *list, void *data, compare equal);
 #endif
+//oioi
